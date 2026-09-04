@@ -16,7 +16,7 @@
     {
       "binding": "DB",
       "database_name": "faka-bridge-db",
-      "database_id": "请替换为你的D1数据库ID",
+      "database_id": "7c04c10a-75be-48a0-8182-dd8bfa1e0077",
       "migrations_dir": "migrations"
     }
   ],
